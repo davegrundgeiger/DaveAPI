@@ -149,7 +149,7 @@ Example Response:
 * The Controllers folder contains the endpoint controllers, which just forward operations into the DataStore methods.
 * See the code comments for DataStore.AdjustedAdditionHistoryByUser for an explanation of how data is manipulated.
 
-## How to turn this into production code
+## How I would turn this into production code
 
 * Add unit testing.
 * Add logging.
